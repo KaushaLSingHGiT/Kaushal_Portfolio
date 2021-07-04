@@ -2,6 +2,36 @@
 
 You can use the [editor on GitHub](https://github.com/KaushaLSingHGiT/Kaushal_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+
+
+# Kaushal_Portfolio
+My Data Science Portfolio 
+
+# Module 1: [Built custom function to fetch sentiment of the sentence](https://github.com/KaushaLSingHGiT/Custom-Sentiment-Analysis)
+* Built your own custom function to fetch sentiment score and it's intesity along with positive, negative words.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
